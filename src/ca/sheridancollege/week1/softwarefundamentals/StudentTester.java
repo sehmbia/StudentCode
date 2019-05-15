@@ -27,6 +27,10 @@ public class StudentTester {
         for(int i=0;i<studentList.length;i++)
         {
             System.out.println(studentList[i].getName());
+           System.out.println("hi");
+           System.out.println("Welcome!");
+           
+           
         }
         
     }
